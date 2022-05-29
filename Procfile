@@ -1,1 +1,0 @@
-web: gunicorn lets_rest.wsgi
