@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-_6m6v@#wcei(9v)s&_iv(ni$0_e@7kxjf^74g0#uj(8v%i^4pv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://orca-app-zils9.ondigitalocean.app/'
+]
 
 
 # Application definition
